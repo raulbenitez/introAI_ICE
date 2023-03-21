@@ -45,7 +45,7 @@ METODOLOGIA
 
 EINES 
 
-  Virtual (Google meet i plataforma de Python google collaboratory, https://colab.research.google.com/ )
+	Virtual (Google meet i plataforma de Python google collaboratory, https://colab.research.google.com/ )
 
 BIBLIOGRAFIA
 
