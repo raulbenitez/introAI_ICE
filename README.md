@@ -4,6 +4,16 @@ TÍTOL
 
   Curs introductori sobre anàlisi de dades i reconeixement de patrons en Python
 
+PROFESSOR
+
+	Raúl Benítez, raul.benitez@upc.edu
+
+	Departament d'Enginyeria de Sistemes, Automàtica i Informàtica Industrial
+
+	Escola d'Enginyeria de Barcelona Est
+
+	Universitat Politècnica de Catalunya 
+
 OBJECTIUS
 
 	- Presentar les eines bàsiques d’anàlisi de dades i tècniques de reconeixement de patrons
