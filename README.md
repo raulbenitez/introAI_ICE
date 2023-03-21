@@ -23,17 +23,6 @@ OBJECTIUS
 	- Eines per validar el rendiment dels models predictius
 
 
-PLA DE TREBALL
-
-	Dia 1: Tema 1
-	
-	Dia 2: Temes 2 i 3
-	
-	Dia 3: Temes 3 i 4
-	
-	Dia 4: Temes 4 i 5
-
-
 TEMARI
 
 	Tema 1: Anàlisi exploratori de dades (manipulació i visualització de dades, 3h)
@@ -46,6 +35,15 @@ TEMARI
 
 	Tema 5: Tècniques d’entrenament i validació de models predictius (validació creuada, mesures d’avaluació del rendiment, 2h)
 
+PLA DE TREBALL
+
+	Dia 1: Tema 1
+	
+	Dia 2: Temes 2 i 3
+	
+	Dia 3: Temes 3 i 4
+	
+	Dia 4: Temes 4 i 5
 
 METODOLOGIA
 
